@@ -1,2 +1,3 @@
-# rapid-security-scanner-dpbk
-Automated issue comment bot repository
+# Rapid Security Scanner Dpbk
+
+Automated issue comment bot repository.
